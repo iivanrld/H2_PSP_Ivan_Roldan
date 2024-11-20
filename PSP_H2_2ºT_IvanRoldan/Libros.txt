@@ -1,0 +1,6 @@
+Java Programming Basics
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Introduction to Algorithms
+The Odyssey by Homer
+Java Concurrency in Practice
